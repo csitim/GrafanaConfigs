@@ -1,0 +1,16 @@
+{
+	"dashboard": {
+		"__requires": [{
+				"id": "grafana",
+				"name": "Grafana",
+				"type": "grafana",
+				"version": "4.2.0"
+			}, {
+				"id": "graph",
+				"name": "Graph",
+				"type": "panel",
+				"version": ""
+			}
+		]
+	}
+}
